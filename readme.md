@@ -1,0 +1,1 @@
+In this task you have to implement a user registration and login system for a website. You will set up a sign-up form for user registration and login. Upon successful login, users will receive a confirmation message. Messages will also be displayed for logout and sign-up actions, ensuring a smooth user experience
